@@ -1,5 +1,5 @@
 # Projeto-Java-SpringBoot
-Este projeto foi desenvolvido utilizando o Postman como programa para atuar na prática com o programa em execução.
+Este projeto foi desenvolvido utilizando o Postman para atuar na prática com o programa em execução.
 Basicamente o programa te da a possibilidade de cadastrar novos usuários no banco de dados podendo escolher o nível de autoridade de cada um:
 roles de usuário comum e admin.
 Um usuário só pode requisitar através do postman a lista de quem está cadastrado.
